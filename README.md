@@ -1,6 +1,5 @@
 # lab_spring4
-
-It's just educated Spring F/W
+😃 It's just educated Spring F/W
 
 Spring4.0기반 MVC패턴 실습
 
