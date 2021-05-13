@@ -8,5 +8,5 @@ Spring4.0기반 MVC패턴 실습
 
 <h1> 이미지 넣기 테스트</h1>
 <img class="aop1" src=./images/aop1.gif>
-<img class-"injection1" src=.images/injection1.gif>
-<img class-"injection2" src=.images/injection2.gif>
+<img class-"injection1" src=./images/injection1.gif>
+<img class-"injection2" src=./images/injection2.gif>
